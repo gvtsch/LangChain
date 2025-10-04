@@ -1,0 +1,6 @@
+[submodule "Simple_RAG"]
+	path = Simple_RAG
+	url = https://github.com/gvtsch/Simple_RAG.git
+[submodule "Agents_Limits"]
+	path = Agents_Limits
+	url = https://github.com/gvtsch/Agents_Limits.git
