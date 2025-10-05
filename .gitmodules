@@ -7,3 +7,6 @@
 [submodule "Newsletter_generator"]
 	path = Newsletter_generator
 	url = https://github.com/gvtsch/Newsletter_generator.git
+[submodule "Image_to_recipe"]
+	path = Image_to_recipe
+	url = https://github.com/gvtsch/Image_to_recipe.git
