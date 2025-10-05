@@ -4,3 +4,6 @@
 [submodule "Agents_Limits"]
 	path = Agents_Limits
 	url = https://github.com/gvtsch/Agents_Limits.git
+[submodule "Newsletter_generator"]
+	path = Newsletter_generator
+	url = https://github.com/gvtsch/Newsletter_generator.git
